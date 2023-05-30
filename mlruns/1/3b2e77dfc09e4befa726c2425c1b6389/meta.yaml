@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/3b2e77dfc09e4befa726c2425c1b6389/artifacts
+end_time: 1685467367990
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3b2e77dfc09e4befa726c2425c1b6389
+run_name: invincible-skunk-772
+run_uuid: 3b2e77dfc09e4befa726c2425c1b6389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685467363099
+status: 3
+tags: []
+user_id: madhu

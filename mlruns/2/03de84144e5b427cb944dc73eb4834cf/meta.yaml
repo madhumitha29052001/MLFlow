@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/03de84144e5b427cb944dc73eb4834cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 03de84144e5b427cb944dc73eb4834cf
+run_name: luxuriant-swan-332
+run_uuid: 03de84144e5b427cb944dc73eb4834cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685469062754
+status: 1
+tags: []
+user_id: madhu
